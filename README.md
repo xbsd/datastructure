@@ -1,2 +1,2 @@
 # Data Structures & Algorithms Made Easy, Karunamchi
-Exercised in Python
+Exercises in Python
